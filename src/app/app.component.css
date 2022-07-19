@@ -1,0 +1,62 @@
+table {
+    font-family: 'Lato', sans-serif;
+    margin-top: 15px;
+    color: #313c42;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.modal-dialog {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.logo {
+    width: 50%;
+}
+
+.image {
+    margin: 10px;
+
+}
+
+.title {
+    margin: 10px;
+    color: #313c42;
+    text-align: right;
+}
+
+#tick {
+    color: #5af78e;
+}
+
+thead {
+    background-color: #4ec7e2;
+    font-weight: bold;
+}
+
+svg:hover {
+    cursor: pointer;
+}
+
+.delete {
+    border: none;
+    background: none;
+}
+
+.d-flex {
+    text-align: right;
+    float: right;
+}
+
+.refresh {
+    float: right;
+    background-color: #4ec7e2;
+    border: none;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    color: #313c42;
+}
